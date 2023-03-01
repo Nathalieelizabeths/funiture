@@ -49,6 +49,10 @@ nav{
 }
 #but2{
     padding-left: 60px;
+    font-size: 40px;
+    border: 20px;
+    background-color: black;
+    color: aliceblue;
 }
 .papi2{
     margin-top: -80%;
@@ -113,9 +117,17 @@ nav{
     border-color: black;
     margin-left: -0%;
 }
+.butex{
+    font-size: 40px;
+    background-color: black;
+    color: aliceblue;
+    margin-left: 20%;
+    margin-top: 5%;
+}
 .reco{
     font-size: 60px;
     align-content: center;
+    margin-left: 10%;
 }
 #themis{
     margin-left: 70%;
@@ -186,12 +198,52 @@ nav{
     width: 500px;
     height: 500px;
 }
+#rapi{
+    width: 500px;
+    height: 500px;
+}
 .papping{
     align-items: center;
 }
-#papito{
+.bv{
+    border: 20px;
+    color: aliceblue;
+    background-color: black;
+    font-size: 40px;
+    margin-left: 30%;
+}
+#landi{
     align-items: center;
-    width: 900px;
-    height: 700px;
+    width: 1500px;
+    height: 500px;
+    padding-left: 10%;
+}
+.bute1{
+    margin-top: -25%;
+    margin-left: 40%;
+    font-size: 80px;
+}
+.bute{
+margin-left: 40%;
+font-size: 40px;
+}
+.seclast{
+    margin-top: 20%;
+    font-size: 20px;
+}
+.helpie{
+    margin-top: -10%;
+    padding-left: 20%;
+    font-size: 20px;
+}
+.poli{
+    margin-top: -8%;
+    padding-left: 30%;
+    font-size: 20px;
+}
+.sup{
+    margin-top: -8%;
+    padding-left: 40%;
+    font-size: 20px;
 }
 
